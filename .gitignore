@@ -72,9 +72,9 @@ venv.bak/
 .env.local
 .env.*.local
 
-# ML/AI specific
-models/
+# ML/AI specific (data and saved models, not source code)
 data/
+saved_models/
 *.pkl
 *.joblib
 *.h5
